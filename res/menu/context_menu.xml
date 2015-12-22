@@ -1,0 +1,12 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        
+        <item
+        android:id="@+id/open_image"
+        android:title="@string/open_image"/>
+        
+        <item
+        android:id="@+id/web_page"
+        android:title="@string/web_page"/>
+        
+    </menu>
